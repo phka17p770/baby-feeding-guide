@@ -1,0 +1,115 @@
+# 【党纪学习教育】如何认定处理“小金库”相关违纪行为
+
+> 更新时间：2026-09-17 (UTC+8)
+
+实践中，一些地方和单位设立“小金库”的现象仍屡禁不止，扰乱国家财经管理秩序，存在腐败隐患。《中国共产党纪律处分条例》（以下简称《条例》）增写第三十条第二款，对违反国家财经纪律行为单列一款予以强调。实践中，与“小金库”相关的违纪行为比较复杂，笔者分三种情况予以讨论。**一、如何认定处理单纯设立“小金库”行为**根据2009年《设立“小金库”和使用“小金库”款项违纪行为适用〈中国共产党纪律处分条例〉若干问题的解释》和2010年《设立“小金库”和使用“小金库”款项违法违纪行为政纪处分暂行规定》，“小金库”是指违反法律法规及其他相关规定，应列入而未列入符合规定的单位账簿的各项资金（含有价证券）及其形成的资产。从行为本质和特征来看，设立“小金库”行为是指行为人（含单位，下同）以规避监管为目的，采取各种手段使本单位资金（含资产，下同）脱离符合规定的单位账簿核算，在账外进行管理的行为。其本质在于规避正常的财务管理和监督，主要表现为：一是隐匿收入设立“小金库”，即单位取得收入后，不计入符合规定的单位账簿，形成“小金库”。这些收入既可能是合法收入，如经营收入、投资收益、资产处置、奖励捐赠等，也可能是违法收入，如乱收费、乱罚款、违规摊派、单位受贿等。二是虚列支出套取资金设立“小金库”，即通过虚假支出事项，或者借真实支出事项之机，虚报、冒领单位资金，将资金套出后设立“小金库”。如虚列成本支出、虚列工资福利、虚假报销费用等。三是转移资产设立“小金库”，即以各种名义将单位资产转移至账外，脱离原监管体系，形成“小金库”。如虚假会计核算、虚假股权投资、虚假关联交易、虚假坏账核销、虚假资产盘亏报废等。四是其他形式设立“小金库”。设立“小金库”的手段和形式多种多样，且可能发生隐形变异，要注意把握行为本质，认真甄别。认定设立“小金库”行为，应当坚持主客观相一致原则，把握两点。第一，主观上具有设立“小金库”的故意。表现为行为人是为了规避财务监管、方便以后用钱用物，才故意着手实施相关行为。第二，客观上实施了设立“小金库”的具体行为。设立“小金库”的具体行为包括两个方面：一是使单位资金脱离符合规定的单位账簿核算（下称脱管行为）。二是在账外对上述资金进行管理（下称管理行为），管理行为一般表现为对账外资金的存放、保管、控制、支配等。脱管行为与管理行为本身也可能是违反财经纪律行为，如隐瞒财政收入、虚报冒领财政资金、擅自开立金融账户、私存私放公款等，认定时需结合行为的主观方面综合判断。党员干部实施设立“小金库”行为，违反了《中华人民共和国会计法》等法律法规，属于违反财经纪律行为，应当依照《条例》第三十条第二款给予警告直至开除党籍处分。实践中，需注意设立“小金库”行为与上游违纪违法行为的关联。一是如果资金来源行为与设立“小金库”行为具有紧密的牵连关系，一般按照“择一重处理”原则定性处理。二是如果资金来源行为与设立“小金库”行为不具有紧密的牵连关系，一般分别定性、合并处理。比如，为了违规发放福利而实施违规摊派行为，收取摊派费用后因种种原因没有发放，转而设立“小金库”，后用于日常公务开支，因设立“小金库”行为属于另起犯意，与摊派行为并无牵连关系，应当分别认定构成违规摊派行为和设立“小金库”行为，合并处理。**二、如何认定处理单纯使用“小金库”款项行为**使用“小金库”款项行为，是指行为人对“小金库”的资金进行利用的行为。因使用“小金库”情况复杂，情形较多，且性质不一，故相关规定采取不完全列举的方式对部分使用行为作出规定，认定处理时需结合具体用途区别定性量纪。一是用于公务开支。实践中存在为了弥补经费不足或者单纯为了省事、图方便，而使用他人（如前任领导）设立的“小金库”款项支付本来可以通过正常财务报销的合理公务开支的情况。由于设立、使用“小金库”行为非同一人，设立行为应由他人负责，而使用行为没有改变资金的公共用途，没有侵犯新的客体，不具有违纪性，故不构成违纪。尽管如此，使用人没有坚决纠正“小金库”问题，与中央要求有差距，可以给予谈话提醒、批评教育等处理。二是用于违规违纪的用途。这是“小金库”款项最为常见的去向，包括违规吃喝、宴请、送礼、旅游、健身、娱乐等挥霍浪费行为，违规发放福利，违规购买、装饰公务交通工具，报销应由个人负担的费用等。这些行为违反《条例》等有关规定，已构成其他违纪，应当适用《条例》分则相应条款分别定性处理。如，用于违规组织公款宴请的，适用《条例》第一百一十三条；用于违规发放福利的，适用《条例》第一百一十四条；等等。三是用于违法犯罪行为。实践中，有的将“小金库”款项用于贪污、挪用、私分或行贿等违法犯罪活动。如果设立“小金库”时就是为了实施上述违法犯罪活动，则属于手段与目的的牵连，应当择一处理较重的行为定性处罚。如果设立“小金库”时目的并不明确，使用时才产生了其他违法犯罪的故意，超出了当初设立“小金库”的初衷，则属于另起犯意，应当分别定性处理。如果既有使用“小金库”行为，又有另起犯意实施其他违法犯罪行为，应当将两个行为分别认定、合并处理。党员干部实施上述违法犯罪行为受到行政处罚或者刑事处罚后，按规定应当追究党纪责任的，还应当适用纪法衔接条款给予相应党纪处分。**三、如何认定处理设立并使用“小金库”款项行为**实践中，单纯的设立行为与使用行为并不常见，更多的是既有设立行为又有使用行为，特别是多次设立与多次使用行为相互交织，需区分不同情形分别认定处理。第一，设立行为与使用行为具有一一对应关系。即设立行为与使用行为关系紧密，具有前行为与后行为关系，或者手段行为与目的行为关系，能够一一对应，一般应择一处理较重的行为定性处理。如，截留收入设立“小金库”，目的就是用于违规装修办公楼，因违反办公用房管理规定行为（最高为撤销党内职务）比违反财经纪律行为（最高为开除党籍）的处分档次轻，故认定设立“小金库”行为，适用《条例》违反财经纪律条款处理。如果系多次设立或者多次使用，这些设立或者使用行为均系分别基于同一概括故意，连续实施的相同性质的数个行为，如某单位先后通过多次虚报冒领项目经费手段套取资金设立“小金库”，目的就是用于长期违规发放津补贴，一般应先分别认定为一个设立行为和一个使用行为，再按“择一重处理”原则定性处理，设立、使用次数和累计金额应作为违纪情节进行评价。第二，设立行为与使用行为不具有一一对应关系。如果设立“小金库”后用于不同性质的违纪违法用途，设立行为与使用行为不能一一对应，两者不具有吸收关系或者牵连关系，一般应当分别定性、合并处理。比如，某单位多次通过隐瞒借款利息、租金收入不入账设立“小金库”，用于日常工作开支、公款吃喝、违规发放福利等，案发时还有部分余款，则可考虑分别认定为设立“小金库”、违规组织公款宴请、违规滥发津补贴等行为，适用违反财经纪律和违反廉洁纪律的相应条款合并处理。
+
+来源 | 中央纪委国家监委网站
+
+本期审核：加永群措
+
+本期责编：赤列江才
+
+本期校对：嘎       珍
+
+本期编辑：丹       曲
+
+## 相关阅读
+
+- [【提醒】四川省生殖专科医院中秋假日不停诊，坚守岗位圆好孕！](https://github.com/nih9jzz6yi/family-health-notes/blob/main/20260917ugev/pkrymiumie.md)
+- [感恩献礼——试管婴儿助孕套餐来袭！](https://github.com/o8mgbpui8y/parenting-daily-tips/blob/main/20260916jfgv/vwdnosehdd.md)
+- [每日一膳 | 国庆出游秋燥伤，益气补血加滋养，这款甘甜可口的靓汤能帮到在秋季肺气不足的你~广东省中医院杨志敏教授今日推荐](https://github.com/a66uv6rprt/pregnancy-care-essays/blob/main/20260916huff/huoxvsrmor.md)
+- [美国试管婴儿医院排名榜单，权威信息一手掌握](https://github.com/tp7gz3q4gt/mommy-baby-notes/blob/main/20260910kevk/tjlevqrxnx.md)
+- [精子检查前有什么要求](https://github.com/agufpr6079/mommy-baby-notes/blob/main/20260915dyev/loxeigvftq.md)
+- [奥特奥特五兄弟（奥特曼五兄弟是哪五个）](https://github.com/t57i648hhi/maternal-health-hub/blob/main/20260911zguk/qztnbqwofe.md)
+- [在深圳做试管婴儿多少钱一次？](https://github.com/bjpnmb0r46/child-care-diary/blob/main/20260911zutm/etjwefauau.md)
+- [我院院长束余声获第三届扬州市“最美科技工作者”荣誉称号](https://github.com/h5z4rt20ta/pregnancy-care-hub/blob/main/20260917bomb/jjzbgyctju.md)
+- [做试管宁波哪个医院好,宁波做试管要多少钱！](https://github.com/fbw1fx15bs/baby-care-journal/blob/main/20260910aqop/vffiolccet.md)
+- [熬夜会导致月经推迟吗？](https://github.com/bnab3b3j5y/baby-food-notes/blob/main/20260911qiga/oeliyukyin.md)
+- [院内救治惊心动魄，院外救援感人肺腑——多学科协作成功救治一例胎盘早剥并弥漫性血管内凝血患者](https://github.com/in5gxld2dh/child-development-log/blob/main/20260916nhou/iwaruhjtfg.md)
+- [【医院动态】深化战略合作 促进成果转化——天津医科大学第二医院临床试验机构与临床试验创新企业战略合作论坛顺利举办](https://github.com/y9qvvxks1i/family-health-notes/blob/main/20260917yunc/snroovnjqv.md)
+- [【妇幼科普】开学季，别让“魔丸”伤了眼~](https://github.com/jg9otl86or/mommy-baby-notes/blob/main/20260916uzhu/osahfaidjj.md)
+- [台北的试管机构命中率高吗？台北试管惊人达成率！](https://github.com/w4nejibsgs/pregnancy-care-hub/blob/main/20260915zuxr/pmgmqimhos.md)
+- [【收藏攻略】和平路高架桥西延施工 来省人民医院就诊前一定要看这个，否则······](https://github.com/xeatwgpqt3/pregnancy-care-hub/blob/main/20260916yolm/lmnltsvuzy.md)
+- [抽血前能不能抽烟呢](https://github.com/opigz3v852/child-care-essays/blob/main/20260915lkca/bppaxeiirp.md)
+- [怀孕33天有褐色分泌物怎么回事](https://github.com/h538vradpp/mommy-baby-notes/blob/main/20260915uach/xgajddqall.md)
+- [【移植术前答疑】移植第3天胚胎好，还是囊胚好？](https://github.com/agufpr6079/family-health-notes/blob/main/20260916yhvw/uwjsjkiqvq.md)
+- [铁路医院做三代试管吗〖铁路医院第三人民医院〗](https://github.com/zntce2ojnh/family-health-notes/blob/main/20260910nmne/bubyfqxyxu.md)
+- [「试管婴儿」试管助孕如何才能获取到优质胚胎？](https://github.com/whprpfn9bc/child-care-essays/blob/main/20260916ixzf/jpwdtexohm.md)
+- [速度报名！5·19深圳湾徒步抗癌行，和专家边走边唠！](https://github.com/cfo5j5htmg/pregnancy-nutrition-notes/blob/main/20260916wjce/dbvjpzsxkv.md)
+- [防“危”杜渐，国妇婴与你共筑母婴安全堤坝](https://github.com/j4q35mmgu2/parenting-daily-tips/blob/main/20260916mkmj/rmvsbgxpqi.md)
+- [抓住春天“追高期”，中西医“组合拳”来助力！](https://github.com/qws8inv2p1/mommy-baby-notes/blob/main/20260916mbac/rkaammzoke.md)
+- [什么是雷特综合征](https://github.com/vdzzg6wfu2/mom-baby-stories/blob/main/20260915jgag/wgvtbhgrpc.md)
+- [喜讯！我院3个支部入选全省党建工作样板支部培育创建单位](https://github.com/w4nejibsgs/family-health-notes/blob/main/20260916jazq/xjrgbbvmpc.md)
+- [潍坊哪里可以试管做儿子女儿？](https://github.com/qnifxoey3y/pregnancy-care-hub/blob/main/20260910xwuy/aifhlwfckw.md)
+- [【微动态】一站式诊疗服务 守护军营绿花](https://github.com/ws96ngpo3u/kids-health-guide/blob/main/20260916nase/uyiyxyizsk.md)
+- [深圳市妇幼医院三代试管多少钱?](https://github.com/tp7gz3q4gt/parenting-daily-tips/blob/main/20260910ttdx/oihlbfigvc.md)
+- [【微动态】护理备战练兵：再谱新篇章，再添新光彩！](https://github.com/iebkyzpjrn/pregnancy-care-hub/blob/main/20260917refw/hvuvhdutbb.md)
+- [月经干净后第几天才是排卵期呢](https://github.com/qws8inv2p1/baby-care-journal/blob/main/20260915esll/kjzwfflfqk.md)
+- [孕妇孕酮低吃什么药好](https://github.com/ij0s3j0vss/parenting-daily-tips/blob/main/20260915eaxb/xycfyobnyq.md)
+- [胖，也是病！得治！](https://github.com/fwqeo9xwuk/parenting-faq-hub/blob/main/20260911oxhb/zuavmwgoap.md)
+- [物质营养对大脑发育的影响](https://github.com/bnab3b3j5y/baby-care-essays/blob/main/20260915lpsx/hczatgzrbi.md)
+- [“老寒腿”三伏治](https://github.com/olvqsk2upx/pregnancy-care-hub/blob/main/20260916rauy/jblutrbpro.md)
+- [试管冻胚解冻费用是按管收费的吗？附机票和食宿！](https://github.com/ntyvivo01u/maternal-health-hub/blob/main/20260911uxkd/ukxocxlixw.md)
+- [【同心战疫】我院派出多支医疗队支援浦城防疫工作](https://github.com/l5q2j5iic2/pregnancy-care-hub/blob/main/20260917ggxq/yincmshpbn.md)
+- [第三代试管什么人做,做第三代试管婴儿要什么条件](https://github.com/gamvlx2qer/pregnancy-care-hub/blob/main/20260910rkvl/oqukthkpkr.md)
+- [逢年过节吨吨吨，肠胃大呼折磨人，春节喝酒指南上线！](https://github.com/nih9jzz6yi/parenting-daily-tips/blob/main/20260916fows/wepyqhlikm.md)
+- [江苏人工授精比较好的医院地址，真实医生解答](https://github.com/y9qvvxks1i/pregnancy-care-hub/blob/main/20260910pslf/ulksodiyte.md)
+- [“党徽耀东医”品牌逐渐擦亮，引领医院又好又快发展 ----省卫计委党建工作观摩团给予我院党建工作高度好评](https://github.com/dvr9hxdoa2/baby-care-journal/blob/main/20260916hygb/bjldzjenex.md)
+
+## 推荐站点
+
+- [代生正规医院-代怀生小孩价格,试管婴儿促排卵多会老吗？试管婴儿促排卵会让女性衰老很快吗？](https://www.zhangruiqing.cn/305265539139.html)
+- [着床不稳的征兆](https://www.hs52.cc/sandaigongluandaihuai/75.html)
+- [感谢北大妇幼时春艳主任,代孕中心有几家](https://www.dygsdyw.com/225211915447.html)
+- [多囊卵巢综合征，都会发展成糖尿病吗？饮食怎么调理？](https://hangzhou.ccxwlkx.cn/269.html)
+- [代怀方法有哪些_代生正规的机构,婚礼为什么忌讳大腹部，和新娘犯冲只是其一](https://www.sjb493.cn/12531467517263.html)
+- [徐州三代试管的机构排名前三，掌握比较新骗局轻松避坑,供卵代怀试管机构排名](https://www.syldezdhkj.cn/29745815348960.html)
+- [['https://www.dzjiurunxcl.cn/24511842952983.html', '助孕生宝宝费用明细公布，正规机构选择指南']](https://www.dzjiurunxcl.cn/24511842952983.html)
+- [促排卵药物会导致女人提前衰老吗？,试管代孕咨询&私人代孕号码](https://www.afa2019.com/217115674215.html)
+- [多囊不排卵女性打HCG针的作用是补充促性腺激素吗？](https://www.hbhuihaohb.cn/156.html)
+- [冷知识:供卵代生孩子网拮抗剂方案优势|促排药物使用时间/剂量别忽略](https://www.dgshengxigongchengsl.cn/1456987100734.html)
+- [代怀公司服务：南通做试管婴儿多少钱各阶段花销都不同](https://www.jszgyh.com/404123995025.html)
+- [供卵试管婴儿取卵后，如何促进卵巢快速恢复？](https://www.vhpowpj.cn/20250821-153.html)
+- [['https://www.bubustuff.com/114.html', '南昌安义县供卵女孩价格是多少？志愿者补偿标准']](https://www.bubustuff.com/114.html)
+- [['https://www.hnyataikj.cn/27789352500503.html', '试管助孕期间体重变化原因与应对策略']](https://www.hnyataikj.cn/27789352500503.html)
+- [禧代尔：以基因科技赋能辅助生殖，共筑健康生命之梦](https://www.gaodunxinkj.cn/20250826-170.html)
+- [深圳哪家医院做试管助孕技术好？探寻深圳优质辅助生殖机构](https://www.tjsjyongsheng.cn/311393402097.html)
+- [深圳供卵试管正规中介公司有哪些？本地口碑公司推荐](https://www.chengdusokh.cn/214180619219.html)
+- [试管婴儿不成功能否退款](https://www.haojiezhishi.cn/111.html)
+- [['https://www.zixigou.com/20.html', '上海普陀区供卵公司哪家强？真如地标附近助孕中心汇总']](https://www.zixigou.com/20.html)
+- [澳门供卵试管婴儿费用解析](https://www.szanguangkeji.cn/tongxingshiguanzhuyun/92.html)
+- [国内三代供卵助孕费用多少？附供卵试管助孕流程一览！](https://www.dymgp.com/8022.html)
+- [南京试管助孕医院前十榜单解读：8家实力派医院详解](https://www.sasksjob.com/427682513116.html)
+- [同性伴侣的三代试管技术：如何实现血缘纽带的最大化？](https://www.hflrwzhs.cn/129.html)
+- [代生产子-抗核抗体阳性做试管成功女性抗核抗体阳性影不影响怀孕？](https://www.hg00fj88.com/2227.html)
+- [想做试管生龙凤胎/双胞胎？医生：风险与成功率并存，需谨慎](https://www.fyluanpu.cn/125694662498.html)
+- [备孕补充这些营养素](https://www.ewdboe.cn/313370726205.html)
+- [['https://www.btwtjx.cn/wuhangongluanshiguanzhongxin/20251014/6098.html', '助孕网成功率-宜昌三代试管成功率是多少费用多少']](https://www.btwtjx.cn/wuhangongluanshiguanzhongxin/20251014/6098.html)
+- [['https://www.rongyixueyuan.com/111.html', '经济实惠的代孕选择：2026年广州第三代试管婴儿医院概览，助您实现家庭梦想']](https://www.rongyixueyuan.com/111.html)
+- [2026年山东供卵优质服务：高成功率关键因素深度解析](https://www.sdshunhezb.cn/414244563236.html)
+- [地中海贫血不影响代生儿子套餐成功率！单身代生儿子套餐多少钱！](https://www.xnnpbhdz.cn/40680885601105.html)
+- [借卵助孕公司：排卵试纸能测出怀孕不](https://www.luruihang.com/2240.html)
+- [沈阳第三代试管婴儿医院哪家好些呢](https://www.esc45.com/62.html)
+- [解析广州试管婴儿的费用明细及整体花费](https://www.monpun.com/6359707286059.html)
+- [戊肝疫苗提前打有必要！超过最佳时间接种后还是会感染](https://www.vecsi.cn/shanxizhuyunfeiyong/2730.html)
+- [代怀成功率最高&正规便宜包代怀生,琼海市中医院做一代试管婴儿助孕要准备多少钱](https://www.zrbbavaq.cn/27752445659151.html)
+- [泉州丰泽区助孕产子价格揭秘：15万能包成功吗？](https://www.toothree006.cn/229693047050.html)
+- [月经异常别大意，宫腔镜手术治疗子宫憩室](https://www.gyzhixiao.cn/107.html)
+- [子宫内膜12mm太厚移植不着床？代生机构价格表成功率可真别小瞧](https://www.sdxxy.cn/20250515-453.html)
+- [西藏代生双胞胎包儿子成功率高的医院排名榜揭晓](https://www.bjwdzxkj.cn/3557090855556.html)
+- [['https://www.liangzimayi.com/2.html', '武汉不孕不育治疗多少钱？专业解读与温暖陪伴']](https://www.liangzimayi.com/2.html)
+- [如何去做试管代孕,双子宫单宫颈可以做试管吗_单子宫双宫颈可以顺产吗！](https://www.dyqlsu.com/20250418-396.html)
+- [辽宁试管最好的医院排名一览表(辽宁最好的试管婴儿医院)](https://www.sandwnot.com/207470733025.html)
+- [温经汤加减调理子宫内膜增生，告别刮宫烦恼](https://www.chengyanghg.cn/322.html)
+- [弱精4次怀孕生化后的做法，改善弱精的五大方法](https://www.qumengru.com/210980869421.html)
+- [借卵保证成功:供精人工授精](https://www.sgdaiyun.com/120625036083.html)
+- [试管婴儿要满足什么前提条件才可以选用冻胚移植？](https://www.cndcxc.com/daiyunjiage/17069.html)
+- [['https://www.cxit.com.cn/daiyunmama/14205.html', '泰国第三代试管_试管供卵合法,试管指南：做试管婴儿一次成功的机会大吗？']](https://www.cxit.com.cn/daiyunmama/14205.html)
+- [高龄代怀生子：艾灸对备孕有帮助吗](https://www.cd-hssf.com/123650567340.html)
+- [['https://www.wahuobao.com/23.html', '代怀生男孩费用对比：主流代怀机构及卵巢早衰促排方案解析']](https://www.wahuobao.com/23.html)
+- [试管代生女孩:鲜胚移植怎么计算预产期？移植鲜胚当天算不算一天？](https://www.mimi567.com/365.html)
+- [关于人工授精，我想说的,代孕步骤，第三代代孕](https://www.fmngst.com/3466487203734.html)
+- [['https://www.xcktgpm.cn/20250823-172.html', '失独家庭再生育：医学路径与代生供卵方案解析']](https://www.xcktgpm.cn/20250823-172.html)
+
+*本文整理自母婴健康资讯，仅供科普参考。*
